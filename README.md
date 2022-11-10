@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nirmal Jose
 - 👀 I’m interested in Autonomous Vehicle Research and Development
-- 🌱 I’m currently doing MSc in Connected and Autonomous Vehicle Engineering at Cranfield University, United Kingdom
+- 🌱 I’m currently working as Research Analyst for SBD Automotive, United Kingdom
+- 🏫 I did MSc in Connected and Autonomous Vehicle Engineering from Cranfield University, United Kingdom
 - 💞️ I’m looking to collaborate on Autonomous Vehicle Software Development
 - 📫 Reach out to me @ [Website](https://nirmal-jose.github.io/)
 
